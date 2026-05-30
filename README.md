@@ -38,6 +38,7 @@ just the overview, see [SUMMARY.md](SUMMARY.md); for a single topic, open it fro
 | [SUMMARY.md](SUMMARY.md) | The at-a-glance overview only: top wins, give-ups, fine print, and an index. |
 | [`summaries/`](summaries/) | One file per article / appendix / MOA, each citing clause + booklet page. |
 | [SUMMARY-vs-UNION-FRAMING.md](SUMMARY-vs-UNION-FRAMING.md) | How this guide's framing lines up against the union's own messaging. |
+| [METHODOLOGY.md](METHODOLOGY.md) | How this was built, where AI was used, and how to reproduce the combined file. |
 
 ## How to read the markers
 
@@ -49,7 +50,9 @@ just the overview, see [SUMMARY.md](SUMMARY.md); for a single topic, open it fro
 
 - The 2025–2029 Terms of Settlement booklet pastes the contract language as
   **page images** with tracked changes (underline = new text, strikethrough =
-  deleted text). Those pages were transcribed by hand, preserving the markup.
+  deleted text). Because those pages are images (not selectable text), they were
+  transcribed at scale using an **AI vision model**, preserving the markup — this
+  is disclosed openly; see [METHODOLOGY.md](METHODOLOGY.md).
 - Each change was **cross-checked against the in-force 2022–2025 Provincial
   Collective Agreement** to catch anything altered without being marked.
 - Every item cites the clause and the booklet **PDF page** (note: *document page
