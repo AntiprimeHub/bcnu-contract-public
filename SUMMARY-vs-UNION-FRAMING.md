@@ -1,0 +1,195 @@
+# Audit — The Union's Booklet vs. the Full Change Set
+
+**Purpose.** This is an objectivity check, not advocacy. It compares what the NBA's
+ratification booklet (`contracts/nba-2025-2029/sections/`, the curated highlights in sections
+06–16) chooses to *tell members* against the full, sourced change set documented in
+`SUMMARY.md`, the per-article files in `summaries/`, and the silent-edit audit in
+`CROSSCHECK-FLAGS.md`. The question is narrow: **is the union's framing complete and balanced,
+or does it lead with wins, soften the conditions, and leave the give-ups out?**
+
+The voice here is deliberately neutral. Where the union's framing is accurate, this says so —
+including one case where the booklet is arguably *more* accurate than `SUMMARY.md`'s own
+emphasis. Where it omits or spins, this names the specific missing fact and cites both sides.
+
+> **Method.** Forward map: each union highlight → its underlying change in `summaries/`, checked
+> for a missing condition / cap / effective date. Reverse map: each loss/watch-out in `SUMMARY.md`
+> → does the booklet mention it anywhere? Every line cites the union section (`NN-name.md`) and
+> the reality source.
+
+---
+
+## Scorecard
+
+| Verdict | Count | Read |
+|---|---:|---|
+| ✓ **Accurately highlighted** | ~52 | Mentioned and matches reality (often *with* effective dates disclosed). |
+| ~ **Downplayed / spun** | ~11 | Mentioned, but missing the cap, condition, or downside. |
+| ✗ **Omitted gains** (under-sold) | ~2 | Real member wins the booklet barely mentions. |
+| ✗ **Omitted losses / give-ups** | ~4 | The integrity findings — absent from the pitch. |
+| ! **Over-claimed / restated as new** | ~3 | Framed as a win or as "no change" when reality differs. |
+
+**Overall:** The booklet is, on the whole, **reasonably accurate on the things it lists**, and —
+notably — it **discloses most deferred effective dates** (the wage table, the premium table, and
+the benefit comparison all show 2026/2027/2028 dates). It is **far less complete on give-ups**:
+the single largest new structure (Shift Select Positions) is presented only by its upside, a
+legal waiver attached to the ratios money is absent, and the "LPN integration is housekeeping
+with no substantive changes" claim is contradicted by a confirmed reduction in red-circling
+protection. The pattern is selective emphasis rather than factual misstatement.
+
+---
+
+## What the union leads with (sections 06–11) — and whether it holds up
+
+| Union highlight | Source check | Verdict |
+|---|---|---|
+| **"12% / ~12.55% GWI, retroactive to Apr 1 2025"** (10-wages) | 3%×4; Yr 3 (Apr 2027) & Yr 4 (Apr 2028) are future. Booklet's year-by-year table **discloses** this. (`summaries/article-63`) | ✓ accurate; deferral disclosed |
+| **"$600M for ratios"** ($100M/$200M/$300M + $300M from 2023) (11-ratio) | Figures match. (`summaries/moa-minimum-nurse-to-patient-ratios-funding`) | ✓ figures accurate (but see omission below) |
+| **Regular premium $2.15 → $3.60; evening premium up** (10) | Matches; all increases start **2026+**, shown in booklet's table. (`summaries/article-28`) | ✓ accurate; dates disclosed |
+| **2× overtime (missed meals; extended-shift OT)** (10) | Matches; meal 2× from Apr 2026, extended-shift from Apr 2027. (`summaries/article-26`, `moa-extended-work-day`) | ✓ accurate; dates disclosed |
+| **Casual Hours Incentive up to $2,430** (10) | Matches; starts **Jan 1 2027**, conditional on employment Dec 31. (`summaries/article-11`) | ✓ accurate (condition not stressed) |
+| **EFNBT benefits trust + plan upgrades** (massage $4,000, vision $900, mental health $1,800, life $250k, LTD indexing 2-yearly) (09) | All match the H&W MOA; booklet's comparison table shows the **Apr 1 2027** effective dates and even the unlimited→capped massage transition. (`summaries/moa-health-and-welfare-benefits`) | ✓ accurate on the numbers; **downplays the structure** (below) |
+| **LPN→RN/RPN salary-on-promotion** (10) | Matches; effective Apr 1 2026. (`summaries/article-18`) | ✓ accurate |
+| **Strengthened agency-staffing restrictions** (10) | Matches new 6.02. (`summaries/article-06`) | ✓ accurate |
+| **Indigenous Child Care Leave (62 weeks)** (13) | Matches; effective Apr 1 2026. (`summaries/article-47`) | ✓ accurate |
+| **New safety duties: 32.03/32.05/32.07/32.08** (14-15) | Match; booklet is transparent that 32.08 "consolidates existing 32.03 language." (`summaries/article-32`) | ✓ accurate |
+
+The chief-negotiator and chair messages (07, 08) are morale/solidarity framing with no specific
+factual claims to test.
+
+---
+
+## Downplayed / spun — mentioned, but missing the catch
+
+- **EFNBT is presented only as member control.** The booklet says the trust gives "significantly
+  greater control while maintaining employer-funded coverage" (09-benefits). It does **not**
+  surface that funding becomes a **fixed %-of-payroll formula rather than a cost guarantee**, that
+  **trustees can later amend the very enhancements being voted on** (item 7), or that the **LPN LTD
+  threshold ($5,110) is set below the old uniform $5,843**. (`summaries/moa-health-and-welfare-benefits`,
+  `moa-efnbt-funding-formula`) — *Partly disclosed:* it does point to "additional protections if
+  LTD costs increase."
+- **Massage "increase to $4,000."** True against the Vince Ready arbitrated caps ($1,427/$1,145),
+  which is the baseline the booklet uses (09). The booklet's own table also shows the historic
+  *unlimited* coverage ending Mar 31 2027 — so the cap is disclosed, but the headline emphasizes
+  the increase, not the new ceiling. (`summaries/moa-health-and-welfare-benefits`)
+- **28.06 specialty premium "eligibility expands."** Booklet stresses added Level 1 OR/ER
+  eligibility (10). The reverse — the clause was reworded to "Level 3/4/5 nurses permanently
+  assigned," which **may narrow** eligibility for some below Level 3 — is not addressed.
+  (`summaries/article-28`, flagged ⚠️)
+- **43.02 Personal Leave "incorporates Joint Interpretation for clarity"** (11). The new
+  **eligibility gate** (employees on a leave of absence as of Jan 1 get no personal days that
+  year) is not mentioned. (`summaries/article-43`)
+- **16.0x Employer Investigations "formalizes natural justice"** (13). The dual edge — it also
+  **codifies the employer's administrative-leave/investigation power** with a soft, waivable
+  21-day timeline — is not mentioned. (`summaries/article-16`)
+- **18.01/18.02 "greater flexibility for members"** (13). The mechanism is a new "unless mutually
+  agreed by Employer and Union" qualifier that can **extend the 30-day placement window** — a
+  two-way lever, framed one way. (`summaries/article-18`)
+- **A.6 Duty to Accommodate** (15). Booklet notes the new accrual protection; it omits new clause
+  **d), which reduces "previous rate of pay" by LTD/WorkSafeBC amounts received** (net top-up
+  only). (`summaries/appendix-a-6`)
+- **HEABC membership for LTC/AL operators** (13). Framed as "ensuring nurses are covered." The
+  conditions — a **phased "target" of 50% in phase one (not guaranteed)**, eligibility gated to
+  operators with majority public funding and ≥$250k/yr, and wage-levelling guaranteed only
+  "until at least Mar 31 2027" — are omitted. (`summaries/moa-heabc-membership-ltc-al-operators`)
+- **Appendix W steward complement** (13). Booklet notes the new Courtenay-Comox positions; it
+  omits that the **net gain is +1.0 FTE** because the NBA Constituent Unions allocation was cut
+  2.0 → 1.0 to reach the new total of 18. (`summaries/appendix-w`)
+- **11.04(A)(10)/(E) "casuals must pick up on-call"** (10). Framed as reducing pressure on regular
+  staff; from the casual's side it is a **new obligation** (a casual category with on-call
+  attached). (`summaries/article-11`)
+- **FF.1 / 10.01 Rapid Dispute Resolution** (12). Booklet is fairly candid (trial, no witnesses);
+  it omits that **RDR decisions set no precedent and cannot be cited later.** (`summaries/appendix-ff-1`)
+
+---
+
+## Omitted from the union's pitch
+
+### Omitted give-ups / losses (the integrity findings — losses first)
+
+- **The ratios money carries a legal waiver.** In exchange for the $600M framing, the **NBA waives
+  all arbitration / litigation over the Ministry's compliance with the 2023 ratios MOU up to the
+  date of this agreement** (mNPR MOA cl.6). The booklet's ratios section (11-ratio) presents only
+  funding and accountability — **the waiver is absent.** It also does not note the MOA is marked
+  **DRAFT / "Without Prejudice."** (`summaries/moa-minimum-nurse-to-patient-ratios-funding`)
+- **Shift Select Positions' trade-offs.** Presented purely as flexibility/work-life balance and
+  "maintaining regular employee status and benefits" (10-wages). Not mentioned: **most of Article
+  25's scheduling protections are switched off for SSPs**, **SSP shifts earn no overtime**,
+  **peak-period hours (Spring Break / Dec 15–Jan 5) can be mandatory**, and the new position type
+  **risks eroding fixed lines.** This is the largest gap between framing and reality.
+  (`summaries/article-17`)
+- **Isolation Travel Allowance frozen at $150/month.** Booklet highlights nine newly *eligible*
+  communities (10), but does not note the **rate itself does not rise for the entire four-year
+  term.** (`summaries/article-54`)
+- **Two confirmed "silent edits."** Neither the unmarked "by the Employer" added to Art 16.03(A)
+  nor the unmarked "The" in Appendix XX appears in the booklet. *Context:* both are defects in the
+  source booklet's own change-markup (the substance is minor), not the kind of item a highlights
+  pamphlet would normally carry — but per the audit they are omissions. (`CROSSCHECK-FLAGS.md`)
+
+### Omitted gains (under-sold)
+
+- **Up to 8 weeks of *paid* gender-affirming medical leave** (Appendix AAA, effective Apr 1 2023).
+  The DEI section (13) highlights only the inclusive-signage requirement and does not mention the
+  paid leave — a concrete member benefit left out of the pitch. (`summaries/appendix-aaa`)
+- **Critical-incident release with transportation home** and several smaller safety entitlements
+  are summarized briefly; accurate but under-weighted relative to their value. (`summaries/article-32`)
+
+---
+
+## Over-claimed / restated as new
+
+- **"APPENDIX EE … no substantive changes to members' rights or entitlements"** (15-ohs, the
+  housekeeping preamble). Contradicted: the **Red-Circled classification-transition protection was
+  reduced** when moved to Article 62 — the relocation dropped the interim "Green-Circled" status,
+  the **March 31 2019** protection-end date, the paid-at-higher-level mechanics, the
+  transfer/resign/retire **forfeiture** condition, and "increment progression continues." Several
+  LPN carve-outs (old EE §2) were also struck with no relocation. Presented as administrative.
+  (`summaries/appendix-ee-lpn-integration`, `summaries/article-62`, `CROSSCHECK-FLAGS.md`)
+- **6.08 "one printed copy for every two employees, ensuring nurses have ready access"** (12).
+  This is a **reduction** from the in-force ratio of two copies per three employees — a cut framed
+  as an access improvement. (`summaries/article-06`)
+- **Shift Select Positions as a "retention" win** (10) — see omitted give-ups above; counted once,
+  noted here for the framing pattern.
+
+---
+
+## Where the union's framing is accurate (and a correction to `SUMMARY.md`)
+
+In the interest of an even audit:
+
+- **Appendix VV (COLA) deletion — the union is right, and `SUMMARY.md` has been corrected.** The
+  booklet states it is "deleted as it was only applicable for April 2023 and 2024" (15-ohs). The
+  cross-check confirms VV's struck body matches the in-force text and that its top-ups applied only
+  to those two years — windows that had already passed before this deal. The deletion therefore
+  removes a **spent** provision, not forward-looking 2025–2029 inflation protection. An earlier
+  draft of `SUMMARY.md` framed this as a "you lose CPI protection" give-up; that has been
+  **corrected** (user-confirmed) — COLA is now listed as housekeeping, not a loss. This is the one
+  place the union's framing was more accurate than this project's first pass. (`CROSSCHECK-FLAGS.md`
+  "CLEAN"; `summaries/appendix-vv`)
+- **Art 46.02 "5 days → 37.5 hours."** The booklet lists this as a days-to-hours **conversion**
+  (16-housekeeping), not as a gain — which is correct (1 day = 7.5h; FTE-neutral). It is **not**
+  over-claimed. (`CROSSCHECK-FLAGS.md`, user-verified)
+- **The deleted housekeeping appendices (HH, JJ.4, PP, N, P).** The booklet gives a specific
+  obsolescence/relocation rationale for each (15, 16). For most these are defensible; the two
+  worth a member's question are **Appendix Q** (booklet: client-specific work "no longer
+  applicable"; `summaries/` flags a possible lost regular-status conversion route) and **Appendix
+  JJ.2** (booklet: "funding already distributed"; `summaries/` flags a specialty-education funding
+  floor with no shown replacement). These are genuine judgment differences, not proven omissions.
+  (`summaries/moa-general-housekeeping-proposal`)
+
+---
+
+## Bottom line
+
+On the evidence, the union's booklet is **accurate in what it states and unusually forthcoming
+about deferred dates** — the wage, premium, and benefit tables openly show that much of the money
+arrives in 2026–2028. Its weakness is **selective completeness**: the costs that sit beside the
+headline wins are thin or absent. The clearest examples are the **Shift Select Positions
+trade-offs** (presented only as flexibility), the **dispute waiver bundled with the ratios
+funding** (not mentioned), and the **"LPN integration is purely administrative" claim** that a
+confirmed reduction in red-circling protection contradicts. A member reading only the booklet
+would come away with an accurate picture of the *gains* and an incomplete picture of the
+*give-ups*. The framing is best described as **emphasis and omission, not misstatement** — which
+is exactly why the give-ups in `SUMMARY.md` are worth reading alongside it before voting.
+
+*Sources: union framing in `contracts/nba-2025-2029/sections/06`–`16`; reality in
+`contracts/nba-2025-2029/changes/SUMMARY.md`, `summaries/*.md`, and `CROSSCHECK-FLAGS.md`.*
