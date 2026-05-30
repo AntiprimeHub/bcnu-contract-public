@@ -8,8 +8,8 @@ ratification booklet (`contracts/nba-2025-2029/sections/`, the curated highlight
 or does it lead with wins, soften the conditions, and leave the give-ups out?**
 
 The voice here is deliberately neutral. Where the union's framing is accurate, this says so —
-including one case where the booklet is arguably *more* accurate than `SUMMARY.md`'s own
-emphasis. Where it omits or spins, this names the specific missing fact and cites both sides.
+including several cases where the booklet is *more* accurate than this project's own first pass.
+Where it omits or spins, this names the specific missing fact and cites both sides.
 
 > **Method.** Forward map: each union highlight → its underlying change in `summaries/`, checked
 > for a missing condition / cap / effective date. Reverse map: each loss/watch-out in `SUMMARY.md`
@@ -22,9 +22,9 @@ emphasis. Where it omits or spins, this names the specific missing fact and cite
 
 | Verdict | Count | Read |
 |---|---:|---|
-| ✓ **Accurately highlighted** | ~52 | Mentioned and matches reality (often *with* effective dates disclosed). |
-| ~ **Downplayed / spun** | ~11 | Mentioned, but missing the cap, condition, or downside. |
-| ✗ **Omitted gains** (under-sold) | ~2 | Real member wins the booklet barely mentions. |
+| ✓ **Accurately highlighted** | ~54 | Mentioned and matches reality (often *with* effective dates disclosed). |
+| ~ **Downplayed / spun** | ~10 | Mentioned, but missing the cap, condition, or downside. |
+| ✗ **Omitted gains** (under-sold) | ~1 | Real member wins the booklet barely mentions. |
 | ✗ **Omitted losses / give-ups** | ~4 | The integrity findings — absent from the pitch. |
 | ! **Over-claimed / restated as new** | ~3 | Framed as a win or as "no change" when reality differs. |
 
@@ -91,9 +91,6 @@ factual claims to test.
   conditions — a **phased "target" of 50% in phase one (not guaranteed)**, eligibility gated to
   operators with majority public funding and ≥$250k/yr, and wage-levelling guaranteed only
   "until at least Mar 31 2027" — are omitted. (`summaries/moa-heabc-membership-ltc-al-operators`)
-- **Appendix W steward complement** (13). Booklet notes the new Courtenay-Comox positions; it
-  omits that the **net gain is +1.0 FTE** because the NBA Constituent Unions allocation was cut
-  2.0 → 1.0 to reach the new total of 18. (`summaries/appendix-w`)
 - **11.04(A)(10)/(E) "casuals must pick up on-call"** (10). Framed as reducing pressure on regular
   staff; from the casual's side it is a **new obligation** (a casual category with on-call
   attached). (`summaries/article-11`)
@@ -117,9 +114,9 @@ factual claims to test.
   **peak-period hours (Spring Break / Dec 15–Jan 5) can be mandatory**, and the new position type
   **risks eroding fixed lines.** This is the largest gap between framing and reality.
   (`summaries/article-17`)
-- **Isolation Travel Allowance frozen at $150/month.** Booklet highlights nine newly *eligible*
-  communities (10), but does not note the **rate itself does not rise for the entire four-year
-  term.** (`summaries/article-54`)
+- **Isolation Travel Allowance frozen at $150/month.** Booklet highlights the newly *eligible*
+  communities (10) — eight added, effective Apr 1 2027 — but does not note the **rate itself does
+  not rise for the entire four-year term.** (`summaries/article-54`)
 - **Two confirmed "silent edits."** Neither the unmarked "by the Employer" added to Art 16.03(A)
   nor the unmarked "The" in Appendix XX appears in the booklet. *Context:* both are defects in the
   source booklet's own change-markup (the substance is minor), not the kind of item a highlights
@@ -127,9 +124,6 @@ factual claims to test.
 
 ### Omitted gains (under-sold)
 
-- **Up to 8 weeks of *paid* gender-affirming medical leave** (Appendix AAA, effective Apr 1 2023).
-  The DEI section (13) highlights only the inclusive-signage requirement and does not mention the
-  paid leave — a concrete member benefit left out of the pitch. (`summaries/appendix-aaa`)
 - **Critical-incident release with transportation home** and several smaller safety entitlements
   are summarized briefly; accurate but under-weighted relative to their value. (`summaries/article-32`)
 
@@ -152,7 +146,7 @@ factual claims to test.
 
 ---
 
-## Where the union's framing is accurate (and a correction to `SUMMARY.md`)
+## Where the union's framing is accurate (and where this audit corrected itself)
 
 In the interest of an even audit:
 
@@ -165,6 +159,19 @@ In the interest of an even audit:
   **corrected** (user-confirmed) — COLA is now listed as housekeeping, not a loss. This is the one
   place the union's framing was more accurate than this project's first pass. (`CROSSCHECK-FLAGS.md`
   "CLEAN"; `summaries/appendix-vv`)
+- **Gender-affirming medical leave — the union is right not to claim it, and this audit's first
+  pass was wrong.** The 8 weeks of *paid* gender-affirming leave (Appendix AAA) was **already in
+  the in-force 2022–2025 agreement** (effective Apr 1 2023); the only change this settlement makes
+  to that appendix is the new inclusive-signage deadline — exactly what the booklet's DEI section
+  highlights (13). An earlier draft of this audit flagged the paid leave as an *omitted gain*; that
+  was incorrect (it is not a 2025–2029 win) and has been removed — a direct parallel to the COLA
+  correction above. (`summaries/appendix-aaa`)
+- **Appendix W steward positions — the booklet's +1.0 is real, with no hidden cut.** The booklet
+  notes the new Courtenay-Comox steward positions (13); the net change is a clean **+1.0 FTE**
+  (17.0 → 18.0). An earlier draft of this audit implied an offsetting "2.0 → 1.0 cut" at NBA
+  Constituent Unions — but that "2.0" is an **error in the booklet's own table** (the in-force
+  agreement and the booklet's struck old total of 17.0 both put NBA Constituent Unions at 1.0).
+  There is no give-up to omit here; that criticism has been removed. (`summaries/appendix-w`)
 - **Art 46.02 "5 days → 37.5 hours."** The booklet lists this as a days-to-hours **conversion**
   (16-housekeeping), not as a gain — which is correct (1 day = 7.5h; FTE-neutral). It is **not**
   over-claimed. (`CROSSCHECK-FLAGS.md`, user-verified)
