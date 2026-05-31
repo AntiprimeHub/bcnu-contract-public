@@ -82,6 +82,26 @@ python tools/bundle_summary.py
 git diff SUMMARY-FULL.md      # should show no changes
 ```
 
+## A different kind of document: the EFNBT deep-dive
+
+[EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) was **not**
+built the way the summaries above were. It is not a transcription diff — it is a
+researched analysis that combines two things: (a) the settlement's own
+benefit-trust documents (the EFNBT funding formula and the health-and-welfare
+MOAs), and (b) **external, publicly-citable evidence** on how jointly-trusteed and
+multiemployer benefit trusts have performed elsewhere (US Taft-Hartley health
+funds, the multiemployer pension solvency crisis, BC's existing Joint Benefits
+Trusts, and others).
+
+Every external claim was put through an **adversarial multi-agent verification
+pass** — a claim was dropped unless it survived independent attempts to refute it
+— and the most load-bearing sources were re-fetched and checked against their
+quoted text. Its full methodology, complete source list (with working links), and
+honesty caveats are documented **inline** at the top and bottom of that file. As
+with everything here, it is **AI-assisted and human-directed**, independent and
+unofficial, and where it disagrees with the official documents, the official
+documents govern.
+
 ## Verify against the official source
 
 This guide is a reading aid, not the contract. Before you vote, get the

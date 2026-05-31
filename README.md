@@ -10,6 +10,13 @@ file (at-a-glance overview + every article, appendix, and MOA broken down). For
 just the overview, see [SUMMARY.md](SUMMARY.md); for a single topic, open it from
 [`summaries/`](summaries/).
 
+**Going deeper → [EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md)**
+— a longer, fully-cited analysis of the settlement's biggest *structural* change:
+moving health & welfare benefits into the new **Employer-Funded Nurses' Benefits
+Trust (EFNBT)**, what that means versus the historic 100%-employer-paid model, and
+how jointly-trusteed union benefit trusts have actually worked out elsewhere
+(nursing and non-nursing, worldwide).
+
 ---
 
 ## ⚠️ Please read this before relying on anything here
@@ -37,6 +44,7 @@ just the overview, see [SUMMARY.md](SUMMARY.md); for a single topic, open it fro
 | [SUMMARY-FULL.md](SUMMARY-FULL.md) | Everything in one document — overview + all per-item breakdowns. Best for sharing or printing. |
 | [SUMMARY.md](SUMMARY.md) | The at-a-glance overview only: top wins, give-ups, fine print, and an index. |
 | [`summaries/`](summaries/) | One file per article / appendix / MOA, each citing clause + booklet page. |
+| [EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) | A deeper, fully-cited deep dive on the new Employer-Funded Nurses' Benefits Trust (EFNBT) vs. the historic 100%-employer-paid model — benefits, drawbacks, and the worldwide track record of jointly-trusteed union benefit trusts. Has its own inline methodology and source list. |
 | [SUMMARY-vs-UNION-FRAMING.md](SUMMARY-vs-UNION-FRAMING.md) | How this guide's framing lines up against the union's own messaging. |
 | [METHODOLOGY.md](METHODOLOGY.md) | How this was built, where AI was used, and how to reproduce the combined file. |
 
