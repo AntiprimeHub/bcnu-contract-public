@@ -82,25 +82,38 @@ python tools/bundle_summary.py
 git diff SUMMARY-FULL.md      # should show no changes
 ```
 
-## A different kind of document: the EFNBT deep-dive
+## A different kind of document: the deep-dive analyses
 
-[EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) was **not**
-built the way the summaries above were. It is not a transcription diff — it is a
-researched analysis that combines two things: (a) the settlement's own
-benefit-trust documents (the EFNBT funding formula and the health-and-welfare
-MOAs), and (b) **external, publicly-citable evidence** on how jointly-trusteed and
+Two longer pieces here were **not** built the way the summaries above were. They
+are not transcription diffs — they are researched analyses that combine the
+settlement's own documents with external, publicly-citable evidence.
+
+[EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) combines (a)
+the settlement's own benefit-trust documents (the EFNBT funding formula and the
+health-and-welfare MOAs), and (b) **external evidence** on how jointly-trusteed and
 multiemployer benefit trusts have performed elsewhere (US Taft-Hartley health
 funds, the multiemployer pension solvency crisis, BC's existing Joint Benefits
 Trusts, and others).
 
-Every external claim was put through an **adversarial multi-agent verification
-pass** — a claim was dropped unless it survived independent attempts to refute it
-— and the most load-bearing sources were re-fetched and checked against their
-quoted text. Its full methodology, complete source list (with working links), and
-honesty caveats are documented **inline** at the top and bottom of that file. As
-with everything here, it is **AI-assisted and human-directed**, independent and
-unofficial, and where it disagrees with the official documents, the official
-documents govern.
+[MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md](MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md)
+is the second such analysis. It combines (a) the 2023 minimum nurse-to-patient
+ratios MOU and its companion one-time-funding agreement, the 2025–2029 ratios
+funding MOA, and BCNU's own implementation/FAQ material, with (b) **external
+evidence** on how ratio mandates (Queensland, California, Victoria, Wales,
+Scotland) and union grievance / release-of-claims waivers have actually performed.
+It centres on what the settlement's clause-6 waiver releases and on the
+(independently unaudited) 2023–2026 ratios delivery record. One of its primary
+sources — a privately-held signed 2023 funding agreement — is **referenced, not
+republished**.
+
+For both, every external claim was put through an **adversarial multi-agent
+verification pass** — a claim was dropped unless it survived independent attempts
+to refute it — and the most load-bearing sources were re-fetched and checked
+against their quoted text. Each file's full methodology, complete source list
+(with working links), and honesty caveats are documented **inline** at its top and
+bottom. As with everything here, they are **AI-assisted and human-directed**,
+independent and unofficial, and where they disagree with the official documents,
+the official documents govern.
 
 ## Verify against the official source
 

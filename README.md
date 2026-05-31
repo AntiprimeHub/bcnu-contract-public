@@ -17,6 +17,13 @@ Trust (EFNBT)**, what that means versus the historic 100%-employer-paid model, a
 how jointly-trusteed union benefit trusts have actually worked out elsewhere
 (nursing and non-nursing, worldwide).
 
+**And → [MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md](MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md)**
+— a fully-cited analysis of the **$600M minimum nurse-to-patient ratios funding**,
+the settlement's **clause-6 waiver** of all disputes over the Ministry's 2023–2026
+ratio-compliance (what it actually releases), and how ratio mandates and union
+grievance waivers have played out worldwide (Queensland, California, Victoria,
+Wales, Scotland).
+
 ---
 
 ## ⚠️ Please read this before relying on anything here
@@ -45,6 +52,7 @@ how jointly-trusteed union benefit trusts have actually worked out elsewhere
 | [SUMMARY.md](SUMMARY.md) | The at-a-glance overview only: top wins, give-ups, fine print, and an index. |
 | [`summaries/`](summaries/) | One file per article / appendix / MOA, each citing clause + booklet page. |
 | [EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) | A deeper, fully-cited deep dive on the new Employer-Funded Nurses' Benefits Trust (EFNBT) vs. the historic 100%-employer-paid model — benefits, drawbacks, and the worldwide track record of jointly-trusteed union benefit trusts. Has its own inline methodology and source list. |
+| [MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md](MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md) | A deeper, fully-cited deep dive on the $600M nurse-to-patient ratios funding, the clause-6 waiver of disputes over the Ministry's 2023–2026 ratio-compliance (what it releases, and the unaudited delivery record), and the worldwide track record of ratio mandates and union grievance waivers. Has its own inline methodology and source list. |
 | [SUMMARY-vs-UNION-FRAMING.md](SUMMARY-vs-UNION-FRAMING.md) | How this guide's framing lines up against the union's own messaging. |
 | [METHODOLOGY.md](METHODOLOGY.md) | How this was built, where AI was used, and how to reproduce the combined file. |
 
