@@ -27,6 +27,7 @@ The research deliberately prioritised primary government, legislative, and emplo
 |---|---|---|
 | [^psec] | **PSEC, "Mandates and agreements" page**, gov.bc.ca — `www2.gov.bc.ca/gov/content/employment-business/employers/public-sector-employers/public-sector-bargaining/mandates-and-agreements` | The authoritative public description of the **2022 Shared Recovery Mandate**: scope, the 3-year wage schedule, the COLA maxima, and the trigger dates. |
 | [^psea] | **Public Sector Employers Act [RSBC 1996] c. 384**, bclaws.gov.bc.ca — `bclaws.gov.bc.ca/civix/document/id/complete/statreg/96384_01` | The statute constituting PSEC (s. 4) and making its strategic directions binding on employers' associations (s. 7(1)(c.1)) and compensation plans binding as "employment compensation standards" (s. 14.3). The legal force behind the mandate. |
+| [^psecrole] | **PSEC, "Public Sector Bargaining" landing page**, gov.bc.ca — `www2.gov.bc.ca/gov/content/employment-business/employers/public-sector-employers/public-sector-bargaining` | PSEC coordinates bargaining through sectoral employers' associations and "ensur[es] public sector compensation costs are aligned with the fiscal plan through the budget objectives set by government" — the funding-side basis for §1.3. |
 | [^fin2022] | **BC Gov news release 2022FIN0075-001756** (mandate launch) | Year-1 structure ($0.25/hr + 3.24%) and the negotiable 0.25% flexibility allocation. |
 | [^fin2023] | **BC Gov news release 2023FIN0022-000361** (Year-2 COLA) | The COLA formula and the Year-2 trigger: 12-month BC CPI avg = 7.1%. |
 | [^fin2024] | **BC Gov news release 2024FIN0013-000387** (Year-3 COLA) | The COLA formula, Year-3 trigger (CPI avg = 3.4%), and the 400,000 / 99% coverage figure. |
@@ -89,6 +90,22 @@ The PSEC page states the mandate "applied to **all** public sector employers wit
 ### 1.2 The issuer
 
 **PSEC is a statutory body** constituted by the *Public Sector Employers Act*, with members appointed by the Lieutenant Governor in Council, whose function (s. 4) is to set and coordinate labour-relations strategic direction.[^psea][^psec] The mandate envelope flows from that s. 4 function; related compensation directives sit with the Minister (s. 14.3) and Cabinet.
+
+### 1.3 How the mandate becomes money — the funded floor vs. the me-too ceiling
+
+A natural question follows from all of this: if the mandate is set *employer-side* and "pushed down" from PSEC, how do unions actually **get** the increase? The answer is that **the mandate figure is a *funded authorization*, not a deduction** — for 2025–2029, the 3%/year is the amount, not a cut from something larger. The loop runs:
+
+1. **Government funds it in the fiscal plan.** PSEC's stated role is to "protect[] the interests of taxpayers by ensuring public sector compensation costs are **aligned with the fiscal plan through the budget objectives set by government**."[^psecrole] The wage envelope is sized to money the province has already budgeted across the public sector.
+2. **PSEC sets the mandate and binds every employer to it.** Under the *Public Sector Employers Act*, each employers' association (HEABC for nurses) "must… comply with" the PSEC direction (s. 7(1)(c.1)).[^psea] The mandate authorises them to offer *up to* the envelope — and no more.
+3. **The union bargains it into its own agreement and members ratify.** The increase is not automatic: the bargaining association negotiates within the envelope and members vote, after which the figure is written into the collective agreement's wage schedule (for nurses, Article 63).[^repo63] Government releases describe each union "ratifying [an] agreement under the mandate."[^fin2024]
+4. **The employer pays it; the province funds the employer.** Once in the ratified agreement the increase is a contractual obligation the employer (health authority, district, Crown corporation) must pay — funded through the provincial budget that sized the envelope in step 1.
+
+So PSEC effectively sets **both ends of the range at once**:
+
+- **The floor** — the mandate figure (3%/yr for 2025–2029) is the *funded amount everyone gets*; it is not withheld.
+- **The ceiling** — the **"me too" / NCI Letter of Agreement** (§5.7) stops any union from getting *more* without every union getting it too. That is the clause that caps the upside, **not** the one that delivers the base increase.
+
+The practical consequence is that the wage *number* is largely pre-set and pre-funded, so a union's real bargaining room is on **non-wage structure** (premiums, benefits, staffing, workload) — though the 2025 NCI model now sweeps much of that into the comparison too (§5.7). *(This describes the normal negotiated path; where bargaining fails, the province's fallbacks are mediation or, rarely, back-to-work / imposed legislation — outside this analysis's scope.)*
 
 ---
 
@@ -213,6 +230,7 @@ Honesty about the gaps, so you can weigh the evidence yourself:
 
 [^psec]: PSEC, "Public sector bargaining — mandates and agreements," gov.bc.ca: https://www2.gov.bc.ca/gov/content/employment-business/employers/public-sector-employers/public-sector-bargaining/mandates-and-agreements
 [^psea]: *Public Sector Employers Act* [RSBC 1996] c. 384: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96384_01 (ss. 4, 7(1)(c.1), 14.3)
+[^psecrole]: PSEC, "Public Sector Bargaining" landing page: https://www2.gov.bc.ca/gov/content/employment-business/employers/public-sector-employers/public-sector-bargaining ("the PSEC Secretariat coordinates bargaining with unions through sectoral employers' associations and protects the interests of taxpayers by ensuring public sector compensation costs are aligned with the fiscal plan through the budget objectives set by government")
 [^fin2022]: BC Government news release 2022FIN0075-001756: https://news.gov.bc.ca/releases/2022FIN0075-001756
 [^fin2023]: BC Government news release 2023FIN0022-000361: https://news.gov.bc.ca/releases/2023FIN0022-000361
 [^fin2024]: BC Government news release 2024FIN0013-000387: https://news.gov.bc.ca/releases/2024FIN0013-000387
