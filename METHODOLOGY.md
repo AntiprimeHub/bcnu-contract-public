@@ -84,7 +84,7 @@ git diff SUMMARY-FULL.md      # should show no changes
 
 ## A different kind of document: the deep-dive analyses
 
-Two longer pieces here were **not** built the way the summaries above were. They
+Three longer pieces here were **not** built the way the summaries above were. They
 are not transcription diffs — they are researched analyses that combine the
 settlement's own documents with external, publicly-citable evidence.
 
@@ -106,7 +106,20 @@ It centres on what the settlement's clause-6 waiver releases and on the
 sources — a privately-held signed 2023 funding agreement — is **referenced, not
 republished**.
 
-For both, every external claim was put through an **adversarial multi-agent
+[SHARED-RECOVERY-MANDATE-ANALYSIS.md](SHARED-RECOVERY-MANDATE-ANALYSIS.md) is the
+third. It explains where the **2022–2025 wage increases** came from — BC's
+employer-side **Shared Recovery Mandate** (set by PSEC under the *Public Sector
+Employers Act*), the capped CPI/COLA, and the standardized public-sector **"me
+too" Letters of Agreement** — combining (a) public primary documents (the PSEC
+mandate page, the statute, BC government wage/COLA releases, HEABC, and the
+me-too LOAs themselves in the BCGEU, CSSEA, and 2025 CBA agreements) with (b) the
+NBA's own wage and premium provisions. Its operative LOA clauses are **quoted in
+full** from their public source PDFs; a companion AI-research audit that first
+surfaced several leads is treated as a **private working document, referenced not
+republished**, with every load-bearing claim independently verified against the
+primary text (and one error in it corrected).
+
+For each, every external claim was put through an **adversarial multi-agent
 verification pass** — a claim was dropped unless it survived independent attempts
 to refute it — and the most load-bearing sources were re-fetched and checked
 against their quoted text. Each file's full methodology, complete source list

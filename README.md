@@ -24,6 +24,15 @@ ratio-compliance (what it actually releases), and how ratio mandates and union
 grievance waivers have played out worldwide (Queensland, California, Victoria,
 Wales, Scotland).
 
+**And → [SHARED-RECOVERY-MANDATE-ANALYSIS.md](SHARED-RECOVERY-MANDATE-ANALYSIS.md)**
+— a fully-cited explainer of where the **2022–2025 wage increases** actually came
+from: BC's employer-side **Shared Recovery Mandate** (set by the Public Sector
+Employers' Council, *not* negotiated between unions), the capped CPI/COLA, the
+standardized **"me too" Letter of Agreement** that keeps unions on the same number
+(and why the NBA's own agreement doesn't carry it), how nurses took extra value in
+**premiums outside** the wage cap, and how the successor **2025 Balanced Measures
+Mandate** closed that loophole — including a verbatim **NBA-only carve-out**.
+
 ---
 
 ## ⚠️ Please read this before relying on anything here
@@ -53,6 +62,7 @@ Wales, Scotland).
 | [`summaries/`](summaries/) | One file per article / appendix / MOA, each citing clause + booklet page. |
 | [EFNBT-BENEFITS-TRUST-ANALYSIS.md](EFNBT-BENEFITS-TRUST-ANALYSIS.md) | A deeper, fully-cited deep dive on the new Employer-Funded Nurses' Benefits Trust (EFNBT) vs. the historic 100%-employer-paid model — benefits, drawbacks, and the worldwide track record of jointly-trusteed union benefit trusts. Has its own inline methodology and source list. |
 | [MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md](MNPR-FUNDING-VS-ENFORCEMENT-ANALYSIS.md) | A deeper, fully-cited deep dive on the $600M nurse-to-patient ratios funding, the clause-6 waiver of disputes over the Ministry's 2023–2026 ratio-compliance (what it releases, and the unaudited delivery record), and the worldwide track record of ratio mandates and union grievance waivers. Has its own inline methodology and source list. |
+| [SHARED-RECOVERY-MANDATE-ANALYSIS.md](SHARED-RECOVERY-MANDATE-ANALYSIS.md) | A fully-cited explainer of the 2022 Shared Recovery Mandate behind the 2022–2025 wage increases and COLA, the public-sector "me too" Letters of Agreement (the 2022 GWI-based clause and its 2025 "Net Compensation Increases" successor, incl. the NBA-only carve-out), and how nurses gained value outside the wage cap. Has its own inline methodology and source list. |
 | [SUMMARY-vs-UNION-FRAMING.md](SUMMARY-vs-UNION-FRAMING.md) | How this guide's framing lines up against the union's own messaging. |
 | [METHODOLOGY.md](METHODOLOGY.md) | How this was built, where AI was used, and how to reproduce the combined file. |
 
