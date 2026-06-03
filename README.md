@@ -40,6 +40,16 @@ Mandate** closed that loophole — including a verbatim **NBA-only carve-out**.
 - **Not official. Not affiliated with, authorized by, or endorsed by** BCNU, the
   Nurses' Bargaining Association, HEABC, or any health authority. This is one
   person's independent reading.
+- **AI was used to build this — and that's disclosed up front.** The image-based
+  contract pages were transcribed with an AI vision model, and the analyses were
+  AI-assisted and human-directed; everything was then cross-checked against the
+  official documents and put through a line-by-line citation audit. Full account
+  in **[METHODOLOGY.md](METHODOLOGY.md)**.
+- **Fully open and version-tracked — nothing is edited quietly.** This whole
+  project lives publicly on GitHub, which keeps a permanent, time-stamped log of
+  every change ever made and the reason for it (that's what "git" does). So you
+  can see exactly what was changed, when, and what was corrected — instead of
+  taking the current version on faith.
 - **Informational only — not legal, financial, or professional advice.**
 - **Verify before you vote.** Check anything that matters to you against the
   **official Terms of Settlement and Collective Agreement** provided by your
