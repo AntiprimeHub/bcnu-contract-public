@@ -42,9 +42,9 @@ Mandate** closed that loophole — including a verbatim **NBA-only carve-out**.
   person's independent reading.
 - **AI was used to build this — and that's disclosed up front.** The image-based
   contract pages were transcribed with an AI vision model, and the analyses were
-  AI-assisted and human-directed; everything was then cross-checked against the
-  official documents and put through a line-by-line citation audit. Full account
-  in **[METHODOLOGY.md](METHODOLOGY.md)**.
+  AI-assisted (Anthropic's Claude Opus 4.8) and human-directed; everything was
+  then cross-checked against the official documents and put through a line-by-line
+  citation audit. Full account in **[METHODOLOGY.md](METHODOLOGY.md)**.
 - **Fully open and version-tracked — nothing is edited quietly.** This whole
   project lives publicly on GitHub, which keeps a permanent, time-stamped log of
   every change ever made and the reason for it (that's what "git" does). So you

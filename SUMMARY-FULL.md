@@ -17,8 +17,9 @@ settlement booklet (PDF page) and the clause it changes. This is built to be *ho
 persuasive second* — the wins are real, but so are the give-ups and the fine print, and you
 should see all of it before you vote.
 
-*Independent and unofficial — not affiliated with BCNU/NBA, and not advice. **AI-assisted and
-human-directed**, then cross-checked against the official documents (full method in
+*Independent and unofficial — not affiliated with BCNU/NBA, and not advice. **AI-assisted
+(Anthropic's Claude Opus 4.8) and human-directed**, then cross-checked against the official
+documents (full method in
 [METHODOLOGY.md](METHODOLOGY.md)). The whole project is public and version-tracked on GitHub —
 every change is logged with a date and a reason, so nothing is edited quietly. Where this guide
 and the official documents disagree, the official documents govern — verify anything that

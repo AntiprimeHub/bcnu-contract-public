@@ -4,7 +4,7 @@
 
 **Prepared:** 2026-05-31 · **Settlement executed:** May 21, 2026 · **EFNBT effective:** April 1, 2027
 
-> **Independent and unofficial.** This is one person's independent analysis — **not affiliated with, authorized by, or endorsed by** BCNU, the Nurses' Bargaining Association, HEABC, or any health authority, and **not legal, financial, or professional advice**. See the [repository README](README.md) for full disclaimers. Where this analysis and the official settlement documents disagree, **the official documents govern.**
+> **Independent and unofficial.** This is one person's independent analysis — **not affiliated with, authorized by, or endorsed by** BCNU, the Nurses' Bargaining Association, HEABC, or any health authority, and **not legal, financial, or professional advice**. See the [repository README](README.md) for full disclaimers. Where this analysis and the official settlement documents disagree, **the official documents govern.** **Built AI-assisted (Anthropic's Claude Opus 4.8) and human-directed, and publicly version-tracked** — every change is logged on GitHub with a date and reason; see [METHODOLOGY.md](METHODOLOGY.md).
 
 ---
 

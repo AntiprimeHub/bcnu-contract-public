@@ -4,7 +4,7 @@
 
 **Prepared:** 2026-06-02 · **Mandate term:** 2022–2025 (now complete) · **Successor:** 2025 Balanced Measures Mandate
 
-> **Independent and unofficial.** This is one person's independent analysis — **not affiliated with, authorized by, or endorsed by** BCNU, the Nurses' Bargaining Association, HEABC, the BC Public Sector Employers' Council (PSEC), or the Province of British Columbia, and **not legal, financial, or professional advice**. See the [repository README](README.md) for full disclaimers. Where this analysis and the official mandate / collective-agreement documents disagree, **the official documents govern.**
+> **Independent and unofficial.** This is one person's independent analysis — **not affiliated with, authorized by, or endorsed by** BCNU, the Nurses' Bargaining Association, HEABC, the BC Public Sector Employers' Council (PSEC), or the Province of British Columbia, and **not legal, financial, or professional advice**. See the [repository README](README.md) for full disclaimers. Where this analysis and the official mandate / collective-agreement documents disagree, **the official documents govern.** **Built AI-assisted (Anthropic's Claude Opus 4.8) and human-directed, and publicly version-tracked** — every change is logged on GitHub with a date and reason; see [METHODOLOGY.md](METHODOLOGY.md).
 
 ---
 
