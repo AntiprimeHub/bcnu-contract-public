@@ -11,6 +11,13 @@ The voice here is deliberately neutral. Where the union's framing is accurate, t
 including several cases where the booklet is *more* accurate than this project's own first pass.
 Where it omits or spins, this names the specific missing fact and cites both sides.
 
+> **Scope note.** The body below (the original audit) covers the **ratification booklet**. A
+> second union artifact — the **ratification FAQ** posted to the BCNU Connect App (extracted to
+> `bcnu-ta-FAQ.md`, 38 Q&As) — is audited separately in the **Addendum** at the foot of this file.
+> The FAQ matters because, unlike the booklet, it is *defensive*: it answers member objections
+> head-on, and in doing so it **discloses several of the give-ups the booklet omitted** — while
+> adding its own framing on the new disclosures.
+
 > **Method.** Forward map: each union highlight → its underlying change in `summaries/`, checked
 > for a missing condition / cap / effective date. Reverse map: each loss/watch-out in `SUMMARY.md`
 > → does the booklet mention it anywhere? Every line cites the union section (`NN-name.md`) and
@@ -200,3 +207,142 @@ is exactly why the give-ups in `SUMMARY.md` are worth reading alongside it befor
 
 *Sources: union framing in `contracts/nba-2025-2029/sections/06`–`16`; reality in
 `contracts/nba-2025-2029/changes/SUMMARY.md`, `summaries/*.md`, and `CROSSCHECK-FLAGS.md`.*
+
+---
+
+# Addendum — The Ratification FAQ vs. the Change Set
+
+**What this is.** The booklet audited above is a *pitch*: it leads with wins. The **ratification
+FAQ** (`bcnu-ta-FAQ.md`, captured from the BCNU Connect App — 38 questions across Wages &
+Premiums, Benefits, General Contract, Ratios, and Voting & Ratification) is a different animal:
+it exists to *answer the hard questions members are already asking*. That posture changes the
+audit result. Where the booklet's failing was **omission**, the FAQ's tendency is **disclosure
+with a reassuring gloss** — it names the waiver, the payroll formula, the trustee power to *cut*
+benefits, and the massage cap, then argues each is fine. So this addendum credits the new candor
+first, then tests the gloss and the new factual claims the booklet never made.
+
+## Addendum scorecard
+
+| Verdict | Count | Read |
+|---|---:|---|
+| ✓ **Discloses what the booklet omitted** | ~5 | The FAQ surfaces give-ups absent from the pitch (the ratios waiver, the %-of-payroll formula, trustees' power to reduce benefits, the massage-cap history, the dependent-coverage cap). |
+| ~ **Discloses, then softens** | ~4 | The downside is stated but immediately reframed as low-risk or upside. |
+| ! **New claim in tension with the primary text** | ~2 | The "$175M is not union money" provenance and the "me too clause" attribution sit awkwardly against the signed MOAs / the repo's me-too analysis. |
+| ≈ **Unverified union estimate** | ~2 | Quantified claims (the per-1% cost; "over $5 billion") that the repo can't confirm but that are internally coherent. |
+
+**Overall:** The FAQ is **markedly more forthcoming than the booklet** on the integrity findings —
+most strikingly, it gives the ratios litigation waiver its own dedicated question, the single
+biggest omission flagged in the booklet audit. Its weaknesses are narrower: a couple of framings
+that don't match the signed text (the seed-funding provenance), and unverifiable cost figures
+deployed to explain why the wage number couldn't go higher.
+
+---
+
+## ✓ What the FAQ discloses that the booklet omitted
+
+- **The ratios litigation waiver — now answered directly.** The booklet audit's headline omission
+  was that the $600M ratios framing is paired with the NBA waiving "any arbitration, lawsuit, or
+  dispute of any kind with respect to the Ministry's compliance with… the 2023 MOU up to and
+  including the date of this Agreement" (`moa-minimum-nurse-to-patient-ratios-funding.md` cl.6).
+  The FAQ has a dedicated Q — *"If the NBA agrees not to pursue legal action over the 2023 ratios
+  agreement, how will the province… be held accountable?"* — that **concedes the waiver exists** and
+  scopes it correctly ("specifically to disputes related to compliance with the 2023… agreement").
+  This is the clearest case of the FAQ closing a booklet gap. *(Caveat retained: the FAQ does not
+  note the MOA is marked **DRAFT / "Without Prejudice."**)*
+- **Funding becomes a fixed %-of-payroll formula, not an open-ended cost guarantee.** The booklet
+  presented the EFNBT only as "member control." The FAQ's *"does tying funding to a percentage of
+  payroll create an incentive to suppress wages?"* Q **states the formula outright** (contributions
+  tied to payroll, rising to 14.25%) — matching `moa-efnbt-funding-formula.md` items 16–19 — rather
+  than burying it. (It then argues the risk is immaterial; see softening below.)
+- **Trustees can *decrease* benefits, not only increase them.** The FAQ explicitly says trustees
+  "can decide to increase or decrease benefits" — conceding the two-way power the booklet's
+  "greater control" framing left implicit, and consistent with `moa-health-and-welfare-benefits.md`
+  item 7 (trustees' authority to amend).
+- **The massage cap is real and its origin is laid out.** The FAQ's *"why is there a cap on massage
+  therapy?"* answer walks through Appendix U.1 (2019) → the 2021 Hedman formula → U.2 (2022) → the
+  Vince Ready arbitration ($1,427 then $1,145) — matching the booklet audit's account and
+  `moa-health-and-welfare-benefits.md` item 6(f). The "$4,000" headline is correctly anchored to
+  the arbitrated cap, not to the historic unlimited coverage.
+- **The dependent-coverage cap is stated plainly.** The two-BCNU-member massage question is answered
+  "$6,000 each — $4,000 from your plan and $2,000 from your spouse," i.e. the previously overlapping
+  *unlimited* coverage is now capped. A member-adverse detail disclosed without spin.
+
+## ~ Disclosed, then softened
+
+- **Wage-suppression risk → "no evidence."** Having stated the payroll-formula link, the FAQ rebuts
+  the concern with "there is no evidence from other health-sector benefits trusts… since 2014."
+  Plausible, but it is an assertion the repo cannot check; the EFNBT analysis lists JBT solvency
+  history as a genuine open question (`EFNBT-BENEFITS-TRUST-ANALYSIS.md` §9).
+- **Trustee power to cut → "far likelier to increase."** The decrease power is immediately
+  outweighed by "$5 billion… over the next eight years" and "benefits are far likelier to increase."
+  The funding is indeed large, but the trust — not the employer — now bears cost-inflation risk
+  (`EFNBT-BENEFITS-TRUST-ANALYSIS.md` §4, item 49), which the reassurance does not mention.
+- **Employer funding default → "legal avenues."** The *"what if the employer can't contribute?"* Q
+  notes enforceability but states "the parties do not anticipate funding issues" — the same open
+  question (no contractual employer top-up/backstop on a trust shortfall) flagged at
+  `EFNBT-BENEFITS-TRUST-ANALYSIS.md` §9(1) is not raised.
+- **No COLA → "inflation is forecast below 3%."** Accurate as a forecast; it is the same envelope
+  trade-off the booklet made, restated. (Distinct from the spent Appendix VV COLA, which the main
+  audit confirmed was correctly deleted as expired.)
+
+## ! New claims in tension with the primary text
+
+- **"The $175M is not union money."** The FAQ answers *"does the $175M belong to members or the
+  union?"* with an emphatic **"No… it does not come from members' dues, BCNU funds or any other
+  union resources,"** attributing it to "unspent money… originally allocated by the province for
+  ratios under the 2023 MOU." But the **binding funding formula says the opposite on its face:**
+  *"On April 1, 2027, **the NBA will contribute $175 million** to the EFNBT"* (`moa-efnbt-funding-formula.md`
+  item 15), and this repo's own analysis calls it a **"$175 million union seed contribution"**
+  (`EFNBT-BENEFITS-TRUST-ANALYSIS.md` §1, §3). Two further frictions: (a) BCNU's own EFNBT materials
+  present the $175M as an inflow to the *employer-funded* trust — a "$175 million initial
+  contribution… to support the long-term viability of the trust" (`bcnu-efnbt-trust-infographic.png`),
+  and the EFNBT email lists it among the trust's employer-funding features (`bcnu-email-1.md`) — yet
+  the signed text names the **NBA** as contributor; and (b) the new ratios MOA says underspent ratios
+  funds are to be **"reserved for initiatives in support of mNPR"** (`moa-minimum-nurse-to-patient-ratios-funding.md`
+  cl.3), *not* redirected to a benefits trust. The FAQ's provenance story (unspent **2023** MOU
+  money the NBA "already… recovered and redirected") may well be true, but **it is not corroborated
+  anywhere in the transcribed settlement documents**, and it reconciles a real inconsistency between
+  the "Employer-Funded" label and the "the NBA will contribute" text. Flagged as a claim a member
+  cannot verify from the agreement itself.
+- **"The 'me too' clause… extends increases to other public-sector workers."** The FAQ invokes a
+  *"me too" clause* the nurses are subject to, to explain why a richer GWI is unaffordable. The
+  economic *direction* is consistent with this repo's analysis (a higher nurse GWI could trigger
+  other unions' me-too clauses) — but the repo's **verified core finding** is that *"a 'me too' wage
+  clause [does not] live in some agreement signed among the public-sector unions"* and that the
+  **NBA's own agreement contains no me-too LOA**; the clauses live in *other* unions' contracts
+  (HEU/FBA, BCGEU, CSSEA), pegged to GWI (`SHARED-RECOVERY-MANDATE-ANALYSIS.md` §1.2, §5, §5.7).
+  The FAQ's shorthand ("the me too clause") obscures that distinction — and, notably, the same §5
+  logic (me-too pegged to *GWI*, not to premiums/ratios) is exactly why the NBA could load this
+  round into premiums and ratios without a province-wide spillover, a point the FAQ does not make.
+
+## ≈ Unverified union estimates (internally coherent)
+
+- **Cost-per-1%.** The Wages answer says a 1% raise "would cost more than $500 million"; the Voting
+  answer says each additional 1% "would cost tax payers approximately $2 billion over four years."
+  These are internally consistent ($500M/yr × 4 ≈ $2B) and track the me-too spillover logic, but the
+  figures themselves are **not sourced in the repo** — treat as union estimates.
+- **"Over $5 billion" to the trust.** The FAQ says "over $5 billion… over the next eight years";
+  BCNU's own EFNBT trust infographic says **"$4.9 billion… over 8 years"**
+  (`bcnu-efnbt-trust-infographic.png`) — a modest round-up. (The emails themselves cite only the
+  $175M and the $459M surplus, not the $4.9B.) The $459M surplus and the 14.25%-by-2031 figure, by
+  contrast, match the actuary projection slide (`bcnu-efnbt-funding-projections.png`) and the funding
+  formula exactly.
+
+## Addendum bottom line
+
+Read against the booklet, the FAQ is the **more candid of the two union documents**: it puts the
+ratios waiver, the payroll formula, the trustees' power to cut, and the massage cap on the record
+instead of leaving them out. Its residual issues are narrower and more specific — a seed-funding
+provenance story that the signed funding formula (which names the **NBA** as the $175M contributor)
+does not corroborate, a "me too clause" shorthand that the repo's me-too analysis specifically
+corrects, and two unverifiable cost estimates. A member who reads the booklet **and** the FAQ comes
+away with a substantially more complete picture than the booklet alone provides — with the
+seed-funding and me-too framings the two points still worth checking against the primary text before
+voting.
+
+*Sources: FAQ in `bcnu-ta-FAQ.md`; EFNBT seed/formula in `moa-efnbt-funding-formula.md` and
+`EFNBT-BENEFITS-TRUST-ANALYSIS.md`; ratios waiver/underspend in
+`moa-minimum-nurse-to-patient-ratios-funding.md`; benefits in `moa-health-and-welfare-benefits.md`;
+me-too in `SHARED-RECOVERY-MANDATE-ANALYSIS.md`; funding figures in the EFNBT emails
+(`bcnu-email-1.md`, `bcnu-email-2.md`) and infographics (`bcnu-efnbt-trust-infographic.png`,
+`bcnu-efnbt-funding-projections.png`).*
